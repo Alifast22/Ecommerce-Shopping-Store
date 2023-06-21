@@ -1,0 +1,101 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there! How can i help you?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+ 
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get","me"],
+    "bot_response": "We don't offer refunds.",
+    "required_words": ["refund"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+
+  {
+    "response_type": "question",
+    "user_input": ["do","you","offer","shipping"],
+    "bot_response": "Yes, we offer shipping at a cost of $6.9 per order.",
+    "required_words": ["shipping"]
+  },
+  {
+      "response_type": "question",
+      "user_input": ["what","payment","methods","do","you","accept"],
+      "bot_response": "We accept Cash on Delivery. If you have any further questions, please let us know!",
+      "required_words":["payment","methods"]
+      
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what","payment","options","do","you","accept"],
+    "bot_response": "We accept Cash on Delivery. If you have any further questions, please let us know!",
+    "required_words":["payment","options"]
+    
+},
+  {
+    "response_type": "question",
+    "user_input": ["show","formal","page","products"],
+    "bot_response": "http://localhost:3000/products/formal",
+    "required_words":["formal"]
+    
+},
+{
+  "response_type": "question",
+  "user_input": ["show","casual","page","products"],
+  "bot_response": "http://localhost:3000/products/casual",
+  "required_words":["casual"]
+  
+},
+{
+  "response_type": "question",
+  "user_input": ["show","accessories","page","products"],
+  "bot_response": "http://localhost:3000/products/accessories",
+  "required_words":["accessories"]
+  
+},
+{
+  "response_type": "question",
+  "user_input": ["show","products","page"],
+  "bot_response": "We have Accessories,Casual and Formal products. Which one would you like to navigate to?",
+  "required_words":["products"]
+  
+},
+{
+  "response_type": "information",
+  "user_input": ["what","is","the","delivery","time"],
+  "bot_response": "Estimated delivery time is 3-5 business days.",
+  "required_words": ["delivery","time"]
+  },
+  {
+    "response_type": "list",
+    "user_input": ["popular", "products"],
+    "bot_response": "Here are our most popular products based on customer reviews and ratings: Sneakers, Blazer",
+    "required_words": ["popular", "products"]
+    },
+    {
+      "response_type": "information",
+      "user_input": ["show","me","faq","page"],
+      "bot_response": "http://localhost:3000/faq",
+      "required_words": ["faq"]
+      }
+  
+]

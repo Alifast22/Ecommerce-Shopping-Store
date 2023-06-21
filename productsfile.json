@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed384"
+  },
+  "title": "Men's formal Wool Coat",
+  "des": "A stylish and warm wool coat for formal occasions.",
+  "img": "https://plus.unsplash.com/premium_photo-1675130119426-0b2c2379a190?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "formal",
+  "size": "Large",
+  "color": "Black",
+  "price": 200
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed385"
+  },
+  "title": "Women's Casual Knit Sweater",
+  "des": "A cozy and comfortable knit sweater for casual wear.",
+  "img": "https://images.unsplash.com/photo-1581497396202-5645e76a3a8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "casual",
+  "size": "Medium",
+  "color": "Gray",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed386"
+  },
+  "title": "Men's Winter Boots",
+  "des": "Sturdy and warm boots for winter weather.",
+  "img": "https://images.unsplash.com/photo-1515564242578-bbea07d21cbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+  "categories": "accessories",
+  "size": "10",
+  "color": "Brown",
+  "price": 120
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed387"
+  },
+  "title": "Women's Formal Cashmere Coat",
+  "des": "A luxurious and warm cashmere coat for formal occasions.",
+  "img": "https://images.unsplash.com/flagged/photo-1578398297852-4d2bfe74cefe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+  "categories": "formal",
+  "size": "Small",
+  "color": "Navy",
+  "price": 500
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed388"
+  },
+  "title": "Men's Winter Parka",
+  "des": "A heavy-duty and insulated parka for extreme winter weather.",
+  "img": "https://images.unsplash.com/photo-1512701229568-30fd3924fd79?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "Winter Clothing",
+  "size": "X-Large",
+  "color": "Green",
+  "price": 300
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed389"
+  },
+  "title": "Leather Dress Shoes",
+  "des": "A stylish pair of leather dress shoes with a comfortable rubber sole.",
+  "img": "https://images.unsplash.com/photo-1625357165350-bdbcb6d7d524?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+  "categories": "formal",
+  "size": "9.5",
+  "color": "Brown",
+  "price": 150
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed38a"
+  },
+  "title": "Casual Striped Shirt",
+  "des": "A comfortable and breathable cotton shirt with a blue and white striped pattern.",
+  "img": "https://images.unsplash.com/photo-1603984103828-0301b174469d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=694&q=80",
+  "categories": "casual",
+  "size": "Large",
+  "color": "Blue",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed38b"
+  },
+  "title": "Leather Crossbody Bag",
+  "des": "A versatile leather crossbody bag with multiple compartments and an adjustable strap.",
+  "img": "https://images.unsplash.com/photo-1541336318489-083c7d277b8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "accessories",
+  "size": "Medium",
+  "color": "Black",
+  "price": 120
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed38c"
+  },
+  "title": "Wool Blazer",
+  "des": "A classic wool blazer with a modern cut and a stylish checked pattern.",
+  "img": "https://plus.unsplash.com/premium_photo-1675130119465-09d1d481b8e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "formal",
+  "size": "40",
+  "color": "Grey",
+  "price": 250
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed38d"
+  },
+  "title": "Canvas Sneakers",
+  "des": "A comfortable and durable pair of canvas sneakers with a stylish white and black design.",
+  "img": "https://images.unsplash.com/photo-1500063925588-751f924d7c80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+  "categories": "casual",
+  "size": "8",
+  "color": "Black and White",
+  "price": 80
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed38e"
+  },
+  "title": "Linen Blazer",
+  "des": "A lightweight and breathable blazer made of high-quality linen.",
+  "img": "https://images.unsplash.com/photo-1589832486202-cf43d3c2547b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "formal",
+  "size": "Medium",
+  "color": "Beige",
+  "price": 150
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed38f"
+  },
+  "title": "Cotton Dress Shirt",
+  "des": "A comfortable and stylish dress shirt made of high-quality cotton.",
+  "img": "https://images.unsplash.com/photo-1603251605785-2a67176883ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "formal",
+  "size": "Large",
+  "color": "Light Blue",
+  "price": 75
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed390"
+  },
+  "title": "Khaki Trousers",
+  "des": "A versatile pair of khaki trousers made of lightweight and breathable cotton.",
+  "img": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "formal",
+  "size": "32",
+  "color": "Khaki",
+  "price": 100
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed391"
+  },
+  "title": "Suede Loafers",
+  "des": "A comfortable and stylish pair of suede loafers with a cushioned insole.",
+  "img": "https://images.unsplash.com/photo-1662541089338-c7d53b88be70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "formal, Shoes",
+  "size": "9.5",
+  "color": "Tan",
+  "price": 150
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed392"
+  },
+  "title": "Kids' Formal Suit",
+  "des": "A stylish and comfortable suit for young boys, perfect for formal events.",
+  "img": "https://images.unsplash.com/photo-1648928201915-69a8865e6c30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+  "categories": "formal",
+  "size": "8",
+  "color": "Navy",
+  "price": 80
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed393"
+  },
+  "title": "Girls' Casual Dress",
+  "des": "A fun and colorful dress for girls to wear on any casual occasion.",
+  "img": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+  "categories": "casual",
+  "size": "6",
+  "color": "Pink",
+  "price": 35
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed394"
+  },
+  "title": "Boys' Formal Shoes",
+  "des": "A pair of sleek and polished dress shoes for boys, perfect for formal events.",
+  "img": "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "formal",
+  "size": "12",
+  "color": "Black",
+  "price": 50
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed395"
+  },
+  "title": "Adult's Sunglasses",
+  "des": "A cool and stylish pair of sunglasses for adults, perfect for sunny days.",
+  "img": "https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "accessories",
+  "size": "",
+  "color": "Blue",
+  "price": 20
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed396"
+  },
+  "title": "Girls' Sneakers",
+  "des": "A comfortable and trendy pair of sneakers for girls to wear on any occasion.",
+  "img": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "4",
+  "color": "White",
+  "price": 45
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed397"
+  },
+  "title": "Toddler Girl Dress",
+  "des": "Cute and comfortable dress for toddler girls",
+  "img": "https://images.unsplash.com/photo-1506804880640-f3205deb1b8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "formal",
+  "size": "2T",
+  "color": "pink",
+  "price": 25.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed398"
+  },
+  "title": "Toddler Girl Sandals",
+  "des": "Comfortable and cute sandals for toddler girls",
+  "img": "https://images.unsplash.com/photo-1605317143724-025ceb00651c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "4T",
+  "color": "white",
+  "price": 19.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed399"
+  },
+  "title": "Toddler Boy Sneakers",
+  "des": "Durable and stylish sneakers for toddler boys",
+  "img": "https://images.unsplash.com/photo-1599654766593-d43341df51cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "casual",
+  "size": "5T",
+  "color": "black",
+  "price": 29.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed39a"
+  },
+  "title": "Toddler Girl Winter Coat",
+  "des": "Warm and stylish winter coat for toddler girls",
+  "img": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "accessories",
+  "size": "3T",
+  "color": "purple",
+  "price": 39.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed39b"
+  },
+  "title": "Classic Striped Tie",
+  "des": "This classic striped tie is perfect for any formal occasion. Made from high-quality silk, it features a timeless design that will never go out of style.",
+  "img": "https://images.unsplash.com/photo-1497907392684-e724aae1b42b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+  "categories": "casual",
+  "size": "One Size",
+  "color": "Navy Blue/Red",
+  "price": 29.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed39c"
+  },
+  "title": "Black Satin Tie",
+  "des": "This black satin tie is a staple for any formal wardrobe. Made from high-quality materials, it has a smooth, luxurious finish that adds a touch of sophistication to any outfit.",
+  "img": "https://images.unsplash.com/photo-1598808503746-f34c53b9323e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "accessories",
+  "size": "One Size",
+  "color": "Black",
+  "price": 19.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed39d"
+  },
+  "title": "Silk Paisley Tie",
+  "des": "This silk paisley tie is the perfect addition to any formal outfit. Featuring a classic paisley design, it's made from high-quality silk that drapes beautifully and feels great to the touch.",
+  "img": "https://images.unsplash.com/photo-1676893140070-c0cf9bc4ff92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+  "categories": "accessories",
+  "size": "One Size",
+  "color": "Navy Blue",
+  "price": 39.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed39e"
+  },
+  "title": "Woven Geometric Tie",
+  "des": "This woven geometric tie is a great way to add some personality to your formal outfit. Made from high-quality materials, it features a bold geometric pattern that's sure to turn heads.",
+  "img": "https://images.unsplash.com/photo-1676030788770-448aa27b481f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+  "categories": "accessories",
+  "size": "One Size",
+  "color": "Red/Black",
+  "price": 34.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed39f"
+  },
+  "title": "Cloth Napkins",
+  "des": "These 100% cotton napkins are perfect for formal dinners and special occasions. Each set includes 10 napkins in assorted colors.",
+  "img": "https://plus.unsplash.com/premium_photo-1667861384204-7cdc9e0e0a9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "accessories",
+  "size": "10\" x 10\"",
+  "color": "assorted",
+  "price": 29.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a0"
+  },
+  "title": "Monogrammed Cloth Napkins",
+  "des": "These elegant cloth napkins feature your choice of monogram in a classic script font. Made of 100% cotton, these napkins are perfect for formal dining and special occasions.",
+  "img": "https://images.unsplash.com/photo-1523972426550-23b522ad4f9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+  "categories": "accessories",
+  "size": "12\" x 12\"",
+  "color": "white",
+  "price": 39.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a1"
+  },
+  "title": "Children's Cloth Napkin Set",
+  "des": "This set of 6 cloth napkins is perfect for children's formal dinners and special occasions. Each napkin is made of 100% cotton and features a playful animal design.",
+  "img": "https://images.unsplash.com/photo-1580428456246-a6639c9b3a7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+  "categories": "accessories",
+  "size": "8\" x 8\"",
+  "color": "assorted",
+  "price": 19.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a2"
+  },
+  "title": "Linen Dinner Napkins",
+  "des": "These elegant linen napkins are perfect for formal dining and special occasions. Each set includes 4 napkins in your choice of color.",
+  "img": "https://images.unsplash.com/photo-1517953720815-3ad3488a67f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+  "categories": "accessories",
+  "size": "16\" x 16\"",
+  "color": "assorted",
+  "price": 59.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a3"
+  },
+  "title": "Embroidered Cloth Napkins",
+  "des": "These beautiful cloth napkins feature delicate embroidery in a floral design. Made of 100% cotton, these napkins are perfect for formal dining and special occasions.",
+  "img": "https://images.unsplash.com/photo-1519405474421-f6a5fae2db20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "accessories",
+  "size": "10\" x 10\"",
+  "color": "white",
+  "price": 49.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a4"
+  },
+  "title": "Men's Slim-Fit Hoodie",
+  "des": "This comfortable hoodie is perfect for any occasion. The slim-fit design is both stylish and comfortable, making it a great addition to any wardrobe.",
+  "img": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "S,M,L,XL",
+  "color": "Black,Gray,Navy Blue",
+  "price": 39.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a5"
+  },
+  "title": "Women's Hoodie",
+  "des": "Stay cozy in this stylish women's hoodie. With a loose fit and soft fabric, this hoodie is perfect for any casual occasion.",
+  "img": "https://images.unsplash.com/photo-1633292750937-120a94f5c2bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "XS,S,M,L,XL",
+  "color": "Pink,Gray,White",
+  "price": 49.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a6"
+  },
+  "title": "Unisex Pullover Hoodie",
+  "des": "This classic hoodie features a kangaroo pocket and a comfortable fit that's perfect for any casual occasion.",
+  "img": "https://images.unsplash.com/photo-1525199078165-69ce4f553361?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=716&q=80",
+  "categories": "casual",
+  "size": "S,M,L,XL,XXL",
+  "color": "Black,Gray,Navy Blue",
+  "price": 34.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a7"
+  },
+  "title": "Men's Full-Zip Hoodie",
+  "des": "Stay warm and comfortable in this full-zip hoodie. The classic design is perfect for any casual occasion.",
+  "img": "https://images.unsplash.com/photo-1594238641163-d42c700e4fa0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categories": "casual",
+  "size": "S,M,L,XL",
+  "color": "Black,Gray,Navy Blue",
+  "price": 49.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a8"
+  },
+  "title": "Women's Cropped Hoodie",
+  "des": "This stylish cropped hoodie is perfect for any casual occasion. With a comfortable fit and soft fabric, you'll want to wear it all the time.",
+  "img": "https://images.unsplash.com/photo-1616430286685-d11d259848b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "XS,S,M,L,XL",
+  "color": "Black,Gray,Pink",
+  "price": 29.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3a9"
+  },
+  "title": "Classic Black Cardigan",
+  "des": "A timeless piece that is perfect for any occasion.",
+  "img": "https://images.unsplash.com/photo-1594387040646-53379461bf56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "S, M, L, XL",
+  "color": "Black",
+  "price": 49.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3aa"
+  },
+  "title": "Chunky Knit Cardigan",
+  "des": "Stay cozy in style with this chunky knit cardigan.",
+  "img": "https://images.unsplash.com/photo-1631541909061-71e349d1f203?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2h1bmt5JTIwS25pdCUyMENhcmRpZ2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "casual",
+  "size": "M, L, XL",
+  "color": "Gray",
+  "price": 69.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3ab"
+  },
+  "title": "Longline Cardigan",
+  "des": "Add a touch of sophistication to your wardrobe with this longline cardigan.",
+  "img": "https://images.unsplash.com/photo-1631541909061-71e349d1f203?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=705&q=80",
+  "categories": "casual",
+  "size": "S, M, L",
+  "color": "Navy",
+  "price": 89.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3ac"
+  },
+  "title": "Cozy Oversized Cardigan",
+  "des": "This oversized cardigan is perfect for snuggling up on chilly nights.",
+  "img": "https://images.unsplash.com/photo-1592736158789-303583e8db16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+  "categories": "casual",
+  "size": "S, M, L",
+  "color": "Beige",
+  "price": 59.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3ad"
+  },
+  "title": "Cropped Cardigan",
+  "des": "This cropped cardigan is a fun and flirty addition to your wardrobe.",
+  "img": "https://images.unsplash.com/photo-1610765987208-06bbd5d2a1a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "S, M",
+  "color": "Pink",
+  "price": 39.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3ae"
+  },
+  "title": "Navy Blue Wool Blazer",
+  "des": "This navy blue wool blazer is perfect for formal occasions. Made from high-quality wool, it is both comfortable and stylish.",
+  "img": "https://images.unsplash.com/photo-1593030942428-a5451dca4b42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+  "categories": "formal",
+  "size": "M,L,XL",
+  "color": "Navy Blue",
+  "price": 199.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3af"
+  },
+  "title": "Grey Checkered Blazer",
+  "des": "This grey checkered blazer is a great choice for any formal or semi-formal event. It is made from a high-quality blend of wool and polyester.",
+  "img": "https://images.unsplash.com/photo-1622497170185-5d668f816a56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "formal",
+  "size": "S,M,L",
+  "color": "Grey",
+  "price": 179.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b0"
+  },
+  "title": "Casual Linen Blazer",
+  "des": "This casual linen blazer is perfect for a casual summer event. Made from high-quality linen, it is both comfortable and stylish.",
+  "img": "https://images.unsplash.com/photo-1658932304028-cc10f2464c64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "casual",
+  "size": "M,L,XL",
+  "color": "Beige",
+  "price": 149.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b1"
+  },
+  "title": "Leather Jacket",
+  "des": "This leather jacket is the perfect accessory to any casual outfit. Made from high-quality leather, it is both durable and stylish.",
+  "img": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=680&q=80",
+  "categories": "accessories",
+  "size": "S,M,L,XL",
+  "color": "Black",
+  "price": 299.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b2"
+  },
+  "title": "Tweed Blazer",
+  "des": "This tweed blazer is a timeless classic. Made from a high-quality wool blend, it is both stylish and comfortable.",
+  "img": "https://images.unsplash.com/photo-1592343516109-362f7bd871aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "Brown",
+  "price": 249.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b3"
+  },
+  "title": "Slim-Fit Wool Trousers",
+  "des": "Classic slim-fit wool trousers, perfect for a formal look.",
+  "img": "https://images.unsplash.com/photo-1519211777646-3a7ccf759b64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+  "categories": "formal",
+  "size": "30,32,34,36",
+  "color": "black,navy,gray",
+  "price": 99.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b4"
+  },
+  "title": "Stretch-Cotton Chinos",
+  "des": "Comfortable stretch-cotton chinos for a casual look.",
+  "img": "https://images.unsplash.com/photo-1499202977705-65f436dac18a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+  "categories": "casual",
+  "size": "28,30,32,34,36",
+  "color": "khaki,olive,navy",
+  "price": 79.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b5"
+  },
+  "title": "Wool Dress Trousers",
+  "des": "Elegant wool dress trousers for formal occasions.",
+  "img": "https://images.unsplash.com/photo-1493357335960-4583bfa6f8d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "formal",
+  "size": "30,32,34,36",
+  "color": "black,gray",
+  "price": 129.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b6"
+  },
+  "title": "Cropped Linen Trousers",
+  "des": "Light and airy cropped linen trousers for a summer look.",
+  "img": "https://images.unsplash.com/photo-1624378439140-20d221f1b36d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=727&q=80",
+  "categories": "casual",
+  "size": "28,30,32,34,36",
+  "color": "white,beige",
+  "price": 59.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b7"
+  },
+  "title": "Tapered Wool Trousers",
+  "des": "Tapered wool trousers with a modern fit.",
+  "img": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "categories": "formal",
+  "size": "30,32,34,36",
+  "color": "black,navy,gray",
+  "price": 119.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b8"
+  },
+  "title": "Slim Fit Grey Suit",
+  "des": "Elegant slim-fit suit in classic grey color",
+  "img": "https://images.unsplash.com/photo-1603252112050-5ee77b4b4fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8U2xpbSUyMEZpdCUyMEdyZXklMjBTdWl0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "M",
+  "color": "grey",
+  "price": 350.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3b9"
+  },
+  "title": "Black Tuxedo",
+  "des": "Classic black tuxedo with satin lapels",
+  "img": "https://plus.unsplash.com/premium_photo-1664298280363-51c8881ce9ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fEJsYWNrJTIwVHV4ZWRvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "L",
+  "color": "black",
+  "price": 499.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3ba"
+  },
+  "title": "White Dress Shirt",
+  "des": "Crisp white dress shirt made of high-quality cotton",
+  "img": "https://images.unsplash.com/photo-1519743670471-034311358429?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fFdoaXRlJTIwRHJlc3MlMjBTaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S",
+  "color": "white",
+  "price": 79.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3bb"
+  },
+  "title": "Navy Blue Blazer",
+  "des": "Stylish navy blue blazer with a modern cut",
+  "img": "https://images.unsplash.com/photo-1582274528667-1e8a10ded835?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8TmF2eSUyMEJsdWUlMjBCbGF6ZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "XL",
+  "color": "navy",
+  "price": 249.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3bc"
+  },
+  "title": "Brown Leather Shoes",
+  "des": "Elegant brown leather shoes with a timeless design",
+  "img": "https://images.unsplash.com/photo-1472591651607-70e2d88ae3c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8QnJvd24lMjBMZWF0aGVyJTIwU2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "10",
+  "color": "brown",
+  "price": 199.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3bd"
+  },
+  "title": "Black Leather Oxford Shoes",
+  "des": "Classic black leather Oxford shoes with a sleek design",
+  "img": "https://images.unsplash.com/photo-1576133385309-203e67da8e58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8QmxhY2slMjBMZWF0aGVyJTIwT3hmb3JkJTIwU2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "9",
+  "color": "black",
+  "price": 249.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3be"
+  },
+  "title": "Charcoal Grey Suit",
+  "des": "Sophisticated charcoal grey suit with a classic cut",
+  "img": "https://images.unsplash.com/photo-1601730263526-229807bd34cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2hhcmNvYWwlMjBHcmV5JTIwU3VpdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "L",
+  "color": "charcoal",
+  "price": 399.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3bf"
+  },
+  "title": "Navy Blue Dress Pants",
+  "des": "Elegant navy blue dress pants made of high-quality wool",
+  "img": "https://images.unsplash.com/photo-1593621224943-9df08798f6a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fE5hdnklMjBCbHVlJTIwRHJlc3MlMjBQYW50c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "32",
+  "color": "navy",
+  "price": 149.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c0"
+  },
+  "title": "Grey Waistcoat",
+  "des": "Stylish grey waistcoat made of premium wool",
+  "img": "https://images.unsplash.com/photo-1455354269813-737d9df115bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8R3JleSUyMFdhaXN0Y29hdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "M",
+  "color": "grey",
+  "price": 119.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c1"
+  },
+  "title": "Burgundy Tie",
+  "des": "Rich burgundy tie made of high-quality silk",
+  "img": "https://images.unsplash.com/photo-1591729652476-e7f587578d9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8QnVyZ3VuZHklMjBUaWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "M",
+  "color": "grey",
+  "price": 11.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c2"
+  },
+  "title": "Slim Fit Suit",
+  "des": "Elegant slim fit suit made from high-quality materials",
+  "img": "https://images.unsplash.com/photo-1610652492500-ded49ceeb378?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8U2xpbSUyMEZpdCUyMFN1aXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "black",
+  "price": 350
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c3"
+  },
+  "title": "Tuxedo Jacket",
+  "des": "Sophisticated tuxedo jacket made for special occasions",
+  "img": "https://images.unsplash.com/photo-1610486506519-62f96b347095?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8VHV4ZWRvJTIwSmFja2V0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "navy blue",
+  "price": 450
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c4"
+  },
+  "title": "Pleated Dress Pants",
+  "des": "Classic pleated dress pants for a polished look",
+  "img": "https://images.unsplash.com/photo-1624378441864-6eda7eac51cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8TmF2eSUyMEJsdWUlMjBEcmVzcyUyMFBhbnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "charcoal grey",
+  "price": 150
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c5"
+  },
+  "title": "Silk Tie",
+  "des": "Luxurious silk tie with a subtle pattern",
+  "img": "https://media.istockphoto.com/id/918248924/photo/clothing.jpg?b=1&s=170667a&w=0&k=20&c=NUiyk730kMGYYBmcbLuDouXFRlT1A2-Tbqte6F1jZLw=",
+  "categories": "formal",
+  "size": "One size",
+  "color": "burgundy",
+  "price": 75
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c6"
+  },
+  "title": "Leather Dress Shoes",
+  "des": "Handcrafted leather dress shoes with a timeless design",
+  "img": "https://images.unsplash.com/photo-1625357165350-bdbcb6d7d524?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8TGVhdGhlciUyMERyZXNzJTIwU2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "6-13",
+  "color": "brown",
+  "price": 250
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c7"
+  },
+  "title": "Wool Blend Overcoat",
+  "des": "Warm wool blend overcoat for chilly days",
+  "img": "https://images.unsplash.com/photo-1548007936-c5c12f4456b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8V29vbCUyMEJsZW5kJTIwT3ZlcmNvYXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "camel",
+  "price": 400
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c8"
+  },
+  "title": "Button-Front Dress Shirt",
+  "des": "Classic button-front dress shirt with a modern twist",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWO8X_k75JGsWjf3ItVB3fFfo-YV4h_gyFKT5N4B_GZA&s",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "light blue",
+  "price": 85
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3c9"
+  },
+  "title": "Cashmere Sweater",
+  "des": "Luxurious cashmere sweater for a touch of sophistication",
+  "img": "https://plus.unsplash.com/premium_photo-1661593476377-2e1f6dbb1d62?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2FzaG1lcmUlMjBTd2VhdGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "dark grey",
+  "price": 300
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3ca"
+  },
+  "title": "Wool Dress Pants",
+  "des": "Classic wool dress pants for a refined look",
+  "img": "https://media.istockphoto.com/id/1468204129/photo/model-poses-elegantly-beautiful-young-with-exotic-look-long-l.jpg?b=1&s=170667a&w=0&k=20&c=1CgwbKvtrXPN9FqertNaVV3io_BogxQTc0FEYc2tJSA=",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "navy blue",
+  "price": 175
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3cb"
+  },
+  "title": "Wingtip Dress Shoes",
+  "des": "Timeless wingtip dress shoes with a modern twist",
+  "img": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8V2luZ3RpcCUyMERyZXNzJTIwU2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S,M,L,XL",
+  "color": "navy blue",
+  "price": 175
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3cc"
+  },
+  "title": "Men's formal Shirt",
+  "des": "A classic formal shirt for men made from high-quality cotton",
+  "img": "https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fE1lbidzJTIwZm9ybWFsJTIwU2hpcnQnfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "M",
+  "color": "White",
+  "price": 49.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3cd"
+  },
+  "title": "Women's Formal Blouse",
+  "des": "A stylish and elegant blouse made for women",
+  "img": "https://images.unsplash.com/photo-1670789837248-27b3250bb8ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8V29tZW4ncyUyMEZvcm1hbCUyMEJsb3VzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "S",
+  "color": "Black",
+  "price": 59.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3ce"
+  },
+  "title": "Women's Formal Dress",
+  "des": "A stunning formal dress for women with intricate details",
+  "img": "https://images.unsplash.com/photo-1678801868998-65a88613748a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fFdvbWVuJ3MlMjBGb3JtYWwlMjBEcmVzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "M",
+  "color": "Red",
+  "price": 249.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3cf"
+  },
+  "title": "Men's Formal Shoes",
+  "des": "A pair of classic and comfortable formal shoes for men",
+  "img": "https://images.unsplash.com/photo-1641893843833-a006778dc00b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8TWVuJ3MlMjBGb3JtYWwlMjBTaG9lc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "10",
+  "color": "Brown",
+  "price": 99.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d0"
+  },
+  "title": "Women's Formal Pants",
+  "des": "A pair of tailored pants for women that are perfect for formal occasions",
+  "img": "https://media.istockphoto.com/id/1214901007/photo/businesswoman-walking-upstairs.jpg?b=1&s=170667a&w=0&k=20&c=emKXTbYa32FKwlctsZ8lajABrC-3MgmlCEygBGJh0sE=",
+  "categories": "formal",
+  "size": "S",
+  "color": "Navy",
+  "price": 89.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d1"
+  },
+  "title": "Men's Formal Tie",
+  "des": "A classic tie that is perfect for formal events",
+  "img": "https://media.istockphoto.com/id/888275292/photo/neckties-isolated.jpg?b=1&s=170667a&w=0&k=20&c=8cuuRfDJ2DwuW9mBcf4fj9kLgu47lX4DOHV-kznVWM0=",
+  "categories": "formal",
+  "size": "One size",
+  "color": "Black",
+  "price": 29.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d2"
+  },
+  "title": "Women's Formal Skirt",
+  "des": "A stylish and versatile skirt that can be dressed up or down",
+  "img": "https://plus.unsplash.com/premium_photo-1682096992977-650be957f857?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fFdvbWVuJ3MlMjBGb3JtYWwlMjBTa2lydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "M",
+  "color": "Gray",
+  "price": 69.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d3"
+  },
+  "title": "Men's Formal Vest",
+  "des": "A classic vest that is perfect for adding a touch of elegance to any formal outfit",
+  "img": "https://images.unsplash.com/photo-1679101893297-f1ea631fc1c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8TWVuJ3MlMjBGb3JtYWwlMjBWZXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "L",
+  "color": "Charcoal",
+  "price": 79.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d4"
+  },
+  "title": "Women's Formal Jacket",
+  "des": "A stylish and sophisticated jacket for women that is perfect for formal events",
+  "img": "https://images.unsplash.com/photo-1675685828170-fe4b100acd24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fFdvbWVuJ3MlMjBGb3JtYWwlMjBKYWNrZXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "L",
+  "color": "Charcoal",
+  "price": 79.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d5"
+  },
+  "title": "Charcoal Gray Suit",
+  "des": "A stylish gray suit with a modern cut, ideal for business meetings or events.",
+  "img": "https://images.unsplash.com/photo-1515736076039-a3ca66043b27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2hhcmNvYWwlMjBHcmF5JTIwU3VpdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "38S",
+  "color": "Charcoal Gray",
+  "price": 299.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d6"
+  },
+  "title": "Navy Blue Blazer",
+  "des": "A versatile navy blue blazer, perfect for both formal and casual occasions.",
+  "img": "https://media.istockphoto.com/id/1162671859/photo/posh-middle-aged-man-wearing-a-navy-or-royal-blue-jacket.jpg?b=1&s=170667a&w=0&k=20&c=UKkM5T4rT1c-XplAhoCSXTZQ9g_RdyIK6Pi9fMNW2Ho=",
+  "categories": "formal,casual",
+  "size": "M",
+  "color": "Navy Blue",
+  "price": 149.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d7"
+  },
+  "title": "White Dress Shirt",
+  "des": "A classic white dress shirt made from high-quality cotton material.",
+  "img": "data:image/jpeg;base64,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",
+  "categories": "formal",
+  "size": "16",
+  "color": "White",
+  "price": 79.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d8"
+  },
+  "title": "Brown Leather Loafers",
+  "des": "A comfortable pair of brown leather loafers, perfect for both casual and formal occasions.",
+  "img": "https://images.unsplash.com/photo-1616406432452-07bc5938759d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fEJyb3duJTIwTGVhdGhlciUyMExvYWZlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal,casual",
+  "size": "9",
+  "color": "Brown",
+  "price": 99.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3d9"
+  },
+  "title": "Gray Dress Pants",
+  "des": "A pair of stylish gray dress pants, perfect for pairing with a blazer or dress shirt.",
+  "img": "https://images.unsplash.com/photo-1602573991155-21f0143bb45c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8R3JheSUyMERyZXNzJTIwUGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "32x32",
+  "color": "Gray",
+  "price": 89.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3da"
+  },
+  "title": "Black Bow Tie",
+  "des": "A classic black bow tie, perfect for completing a formal outfit.",
+  "img": "https://plus.unsplash.com/premium_photo-1664297814064-661d433c03d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fEJsYWNrJTIwQm93JTIwVGllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "One Size",
+  "color": "Black",
+  "price": 19.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3db"
+  },
+  "title": "Navy Blue Dress",
+  "des": "A beautiful navy blue dress, perfect for formal events or weddings.",
+  "img": "data:image/jpeg;base64,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",
+  "categories": "formal",
+  "size": "8",
+  "color": "Navy Blue",
+  "price": 199.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3dc"
+  },
+  "title": "Tuxedo",
+  "des": "Traditional Tuxedo with a modern twist.",
+  "img": "https://images.unsplash.com/photo-1592878897400-43fb1f1cc324?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8VHV4ZWRvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "40L",
+  "color": "black",
+  "price": 499.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3dd"
+  },
+  "title": "Button-Down Shirt",
+  "des": "Elegant Button-Down Shirt made with premium materials.",
+  "img": "data:image/jpeg;base64,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",
+  "categories": "formal",
+  "size": "M",
+  "color": "white",
+  "price": 79.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3de"
+  },
+  "title": "Pleated Trousers",
+  "des": "Classic Pleated Trousers with a comfortable fit.",
+  "img": "https://images.unsplash.com/photo-1488149156622-5cbca3b2b0db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8UGxlYXRlZCUyMFRyb3VzZXJzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "36x32",
+  "color": "charcoal",
+  "price": 149.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3df"
+  },
+  "title": "Double-Breasted Coat",
+  "des": "Sophisticated Double-Breasted Coat made with high-quality wool.",
+  "img": "https://images.unsplash.com/photo-1541661421060-b493e56b4363?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8RG91YmxlJTIwQnJlYXN0ZWQlMjBDb2F0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "L",
+  "color": "camel",
+  "price": 599.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3e0"
+  },
+  "title": "Lace-Up Oxfords",
+  "des": "Stylish Lace-Up Oxfords made with premium leather.",
+  "img": "https://images.unsplash.com/photo-1673201183138-e68d0b47dbe5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8TGFjZSUyMFVwJTIwT3hmb3Jkc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "10",
+  "color": "brown",
+  "price": 199.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3e1"
+  },
+  "title": "Midi Dress",
+  "des": "Elegant Midi Dress with a flattering silhouette.",
+  "img": "data:image/jpeg;base64,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",
+  "categories": "formal",
+  "size": "S",
+  "color": "burgundy",
+  "price": 129.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3e2"
+  },
+  "title": "Embellished Gown",
+  "des": "Dazzling Embellished Gown perfect for a formal event.",
+  "img": "https://images.unsplash.com/photo-1599581994300-d6fd26692873?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fEVtYmVsbGlzaGVkJTIwR293bnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "M",
+  "color": "navy",
+  "price": 799.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3e3"
+  },
+  "title": "Beaded Clutch",
+  "des": "Gorgeous Beaded Clutch to complement your formal outfit.",
+  "img": "https://images.unsplash.com/photo-1523464900179-ed2e879f4e6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8QmVhZGVkJTIwQ2x1dGNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "accessories",
+  "size": "",
+  "color": "silver",
+  "price": 49.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3e4"
+  },
+  "title": "Crystal Earrings",
+  "des": "Sparkling Crystal Earrings to add a touch of glam to your look.",
+  "img": "https://images.unsplash.com/photo-1667013878692-36690a64ff42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Q3J5c3RhbCUyMEVhcnJpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "categories": "accessories",
+  "size": "",
+  "color": "silver",
+  "price": 49.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3e5"
+  },
+  "title": "Classic Black Suit",
+  "des": "Timeless and elegant, this black suit is perfect for any formal occasion.",
+  "img": "https://images.unsplash.com/photo-1585820122150-3a0909e77e20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fENsYXNzaWMlMjBCbGFjayUyMFN1aXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "Medium",
+  "color": "Black",
+  "price": 499.99
+},{
+  "_id": {
+    "$oid": "6455e6e9bfd9daf9febed3e6"
+  },
+  "title": "Navy Blue Blazer",
+  "des": "This navy blue blazer is versatile and stylish, perfect for dressing up or down.",
+  "img": "https://images.unsplash.com/photo-1593621224867-e17cbc70dc2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8TmF2eSUyMEJsdWUlMjBCbGF6ZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "categories": "formal",
+  "size": "Large",
+  "color": "Navy Blue",
+  "price": 299.99
+},{
+  "_id": {
+    "$oid": "64586f8d1e67799f17f246a2"
+  },
+  "title": "Sweater ",
+  "des": "wool cozy sweater",
+  "categories": "casual",
+  "size": "M",
+  "price": "10.95",
+  "img": "data:image/jpeg;base64,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"
+}]
