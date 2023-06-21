@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64589a152765fc623b21bbe9"
+  },
+  "title": "Muhammad Ali",
+  "product": [
+    {
+      "productId": "6455e6e9bfd9daf9febed384",
+      "quantity": 1,
+      "_id": {
+        "$oid": "64589a062765fc623b21bbe6"
+      }
+    }
+  ],
+  "amount": 200,
+  "address": "R-253 north",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-05-08T06:43:33.733Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T06:43:33.733Z"
+  },
+  "__v": 0
+}]

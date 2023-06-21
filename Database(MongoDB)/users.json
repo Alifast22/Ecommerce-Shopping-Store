@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "63bb38d1ea9c5fc5f833921c"
+  },
+  "username": "ali",
+  "email": "ali@22",
+  "password": "ali22",
+  "createdAt": {
+    "$date": "2023-01-08T21:42:41.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-08T21:42:41.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bbd6a112e826635e7755ff"
+  },
+  "username": "faraz",
+  "email": "faraz@22",
+  "password": "U2FsdGVkX19CaEZSuBX3EpRxTXq9GGQLDbl++9YnuBM=",
+  "createdAt": {
+    "$date": "2023-01-09T08:56:01.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-09T08:56:01.788Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bbd7b612e826635e775601"
+  },
+  "username": "zain",
+  "email": "zain@22",
+  "password": "U2FsdGVkX1+bHbF1SHivFjlbhl9R8dNbMJMP18RyTRo=",
+  "createdAt": {
+    "$date": "2023-01-09T09:00:38.202Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-11T18:39:21.574Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a886a9ed6b8bdd054d09d"
+  },
+  "username": "Muhammad Ali",
+  "email": "m.ali020@hotmail.com",
+  "password": "U2FsdGVkX18m7H+8+3xihb0/0pZq1OIG75K/xuSH148=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-04-27T14:36:26.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-27T14:36:26.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d8aa2dbf4af67952a1590"
+  },
+  "username": "zain22",
+  "email": "m.za@hotmail.com",
+  "password": "U2FsdGVkX181KCg5dWzi+peixl8Vt1ytR1VuOQNFoOc=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-04-29T21:22:42.570Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T21:22:42.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64586b17f1b7959d372a5502"
+  },
+  "username": "df",
+  "email": "df",
+  "password": "U2FsdGVkX1+5We0ZIK6p4gJb0JKRun98JVagA0gpmlw=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-05-08T03:23:03.544Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T03:23:03.544Z"
+  },
+  "__v": 0
+}]
